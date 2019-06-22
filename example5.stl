@@ -1,0 +1,18 @@
+program examsDokimi5
+    declare c,a,b,t;
+
+    b:=10;
+    t:=1;
+    a:=3;
+
+    incase
+	when (a=3):
+		t:=4+7;
+		c:=2
+	when (t>5):
+		b:=10-b;
+		a:=1;
+		t:=1
+    endincase
+
+endprogram

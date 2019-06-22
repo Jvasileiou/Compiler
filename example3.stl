@@ -1,0 +1,14 @@
+program examsDokimi3
+    declare a,b,t;
+
+	b:=5;
+	t:=1;
+	a:=9;
+
+	while (a<=10 or b>2)
+		b:=0;
+		t:=t+1;
+	    	a:=a+1
+	endwhile
+
+endprogram

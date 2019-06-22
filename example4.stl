@@ -1,0 +1,12 @@
+program examsDokimi4
+    declare c,a,b,t;
+
+   t:=1;
+   a:=2;
+
+   dowhile
+	b:=a+3;
+	t:=t+1
+   enddowhile(t<=3)
+
+endprogram

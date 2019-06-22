@@ -1,0 +1,15 @@
+program examsDokimi6
+    declare c,a,b,t;
+
+    b:=1;
+    t:=10;
+
+    loop
+	b:=5-1;
+	a:=1;
+	t:=t-1;
+	exit;
+	b:=t+a
+    endloop
+
+endprogram

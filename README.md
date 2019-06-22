@@ -8,5 +8,5 @@ With this exercise one can understand the basic functions of a translator and pa
 The code consists of 2 key points, the verbal analyst and the editorial analyst.
 
 ##### Authors
-Ioannis Vasileiou 
+Ioannis Vasileiou                                                                                                                           
 Petros Savvopoulos

@@ -12,5 +12,4 @@ Check the Starlet_Grammar file!!!
 
 
 ##### Authors
-Ioannis Vasileiou                                                                                                                           
-Petros Savvopoulos
+Ioannis Vasileiou                                                                                                                         
